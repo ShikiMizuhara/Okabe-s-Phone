@@ -2,6 +2,8 @@
 仅提供可执行版本的压缩包下载。<br>
 这是一个基于《命运石之门》本篇画面改造而成的本地音乐播放器。程序在游戏中冈部伦太郎的手机里额外加入了音乐播放功能。
 
+[点击下载最新版本](https://github.com/ShikiMizuhara/Okabe-s-Phone/releases/latest/download/Okabe-s-Phone.rar)
+
 ## 主要功能
 
 - 原版游戏界面：主界面沿用《命运石之门》本篇中的手机画面与布局。<br>
