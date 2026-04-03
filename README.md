@@ -24,7 +24,7 @@
   - 更换手机壁纸，内置许多游戏原版壁纸，也支持自定义图片（推荐使用 1400×850 分辨率以获得最佳显示效果）。
 - 短信收藏：信箱内收录了 Chapter 10 中冈部伦太郎手机里的所有短信（可能不完整），暂未包含附件。<br>
 
-  <img src="preview/preview2.png" alt="主菜单" 
+  <img src="preview/preview4.png" alt="主菜单" 
      style="width: 750px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"><br>
 
 ## 使用方法
