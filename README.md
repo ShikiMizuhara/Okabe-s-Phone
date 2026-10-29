@@ -5,7 +5,7 @@
 
 **本项目仅提供可执行版本的压缩包下载。**
 
-### 📦 [下载最新版本（Releases）](https://github.com/ShikiMizuhara/Okabe-s-Phone/releases/latest/download/Okabe-s-Phone.rar)
+### 📦 [下载最新版本（Releases）](https://github.com/ShikiMizuhara/Okabe-s-Phone/releases/download/v2.0.0/Okabe.s.Phone.rar)
 
 ---
 
@@ -118,8 +118,8 @@
 - 开启独占模式时，其他程序可能暂时无法使用同一音频设备。
 - 音乐列表目前不支持分类、折叠或排序，仅按读取顺序排列；音乐数量极多时的表现尚未充分验证。
 - 歌曲名称优先读取音频元数据，读取失败或检测到乱码时回退至文件名，但仍可能遇到编码异常。
-- 自定义壁纸推荐使用 **1400 × 850** 分辨率，否则可能出现比例失调。
-- 软件主要面向轻量级本地音乐播放与游戏界面欣赏。
+- 自定义壁纸推荐使用 **1400 × 850** 比例，否则可能出现比例失调。
+- 软件主要面向本地音乐播放与游戏界面欣赏。
 
 ---
 
